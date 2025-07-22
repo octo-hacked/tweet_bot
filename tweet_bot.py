@@ -228,8 +228,8 @@ def main():
 
     # Schedule tweets every 3 hours (conservative for 17/day limit)
     # This gives us ~8 tweets per day, well within the 17/day limit
-    schedule.every(3).hours.do(post_tweet)
-    logger.info("⏰ Scheduled tweets every 3 hours")
+    schedule.every(10).minutes.do(post_tweet)
+    logger.info("⏰ Scheduled tweets every 10 minutes")
 
     # Run scheduler
     logger.info("🔄 Starting scheduler...")
