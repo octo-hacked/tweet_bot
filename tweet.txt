@@ -1,0 +1,539 @@
+Hot take on Python: agree or disagree?
+Ask me anything about JavaScript!
+Biggest Ruby pain point? Vent below.
+One-word review of Node.js: _____
+Tabs or spaces—what's your code style?
+Biggest GitLab pain point? Vent below.
+Rate your TensorFlow skills 1-10.
+Show us a PostgreSQL meme! 😂
+Ask me anything about PyTorch!
+Hot take on Redis: agree or disagree?
+Rate your CSS3 skills 1-10.
+Show us a NumPy meme! 😂
+Ask me anything about Bootstrap!
+Pro Django trick: _____
+Rate your Vercel skills 1-10.
+Biggest FastAPI pain point? Vent below.
+Hot take on Express: agree or disagree?
+Ask me anything about Tailwind CSS!
+Show us a Kubernetes meme! 😂
+One-word review of Vue: _____
+Poll time! Is Angular overrated? 🗳️
+Hot take on MongoDB: agree or disagree?
+Rate your Flask skills 1-10.
+Show us a React meme! 😂
+Ask me anything about Docker!
+Biggest Svelte pain point? Vent below.
+One-word review of TypeScript: _____
+Rate your GraphQL skills 1-10.
+Hot take on AWS: agree or disagree?
+Show us a Laravel meme! 😂
+Ask me anything about Sass!
+Poll time! Is Next.js overrated? 🗳️
+Biggest VS Code pain point? Vent below.
+Rate your Webpack skills 1-10.
+Hot take on Material UI: agree or disagree?
+Show us a PHP meme! 😂
+Ask me anything about Jenkins!
+One-word review of Spring: _____
+Rate your MySQL skills 1-10.
+Hot take on Styled Components: agree or disagree?
+Show us a Azure meme! 😂
+Ask me anything about Cypress!
+Biggest ElasticSearch pain point? Vent below.
+Rate your Jest skills 1-10.
+Hot take on GitHub: agree or disagree?
+Show us a C# meme! 😂
+Ask me anything about WebStorm!
+Poll time! Is Kotlin overrated? 🗳️
+One-word review of Rails: _____
+Rate your GCP skills 1-10.
+Hot take on Jupyter: agree or disagree?
+Show us a Pandas meme! 😂
+Ask me anything about Bitbucket!
+Biggest Vim pain point? Vent below.
+Rate your Rollup skills 1-10.
+Hot take on ESLint: agree or disagree?
+Show us a Prettier meme! 😂
+Ask me anything about Emacs!
+Poll time! Is Sublime overrated? 🗳️
+One-word review of Atom: _____
+Rate your DevOps skills 1-10.
+Hot take on CI/CD: agree or disagree?
+Show us a GitHub Actions meme! 😂
+Ask me anything about Scikit-learn!
+Biggest OpenAI pain point? Vent below.
+Rate your Blockchain skills 1-10.
+Hot take on Solidity: agree or disagree?
+Show us a Ethereum meme! 😂
+Ask me anything about Bitcoin!
+Poll time! Is DeFi overrated? 🗳️
+One-word review of NFTs: _____
+Rate your PWA skills 1-10.
+Hot take on WebAssembly: agree or disagree?
+Show us a Deno meme! 😂
+Ask me anything about Bun!
+Biggest HTML5 pain point? Vent below.
+Rate your CSS Grid skills 1-10.
+Hot take on Flexbox: agree or disagree?
+Show us a Less meme! 😂
+Ask me anything about Bootstrap!
+Poll time! Is Emotion overrated? 🗳️
+One-word review of REST API: _____
+Rate your Redis skills 1-10.
+Hot take on Netlify: agree or disagree?
+Show us a Parcel meme! 😂
+Ask me anything about Testing!
+Biggest Machine Learning pain point? Vent below.
+The best way to learn coding? Build, break, repeat.
+Pro tip: Use semantic HTML for better accessibility!
+Setting up CI/CD feels like magic (when it works).
+Drop a GIF that describes your last debugging session.
+Favorite CSS trick you recently learned? Share it!
+Learning to code is a marathon, not a sprint.
+API docs: a developer's best friend (and worst enemy!).
+What's one tool you can't live without?
+Deploying on Friday? Brave or reckless?
+Refactor fearlessly, but always commit first!
+Drop your repo—let's check out each other's work!
+If your code could talk, what would it say?
+Which coding playlist keeps you in flow?
+Pull requests: praise, suggest, or question?
+The only constant in web dev? Change.
+Name a tech buzzword you secretly love.
+Pair programming: yay or nay?
+Code review tip: be kind, be clear, be concise.
+Just shipped to production—holding my breath! 🚀
+What's your go-to text editor?
+CSS flexbox or grid—what's your layout weapon of choice?
+Debugging: detective work for developers.
+Share one website you admire for its design.
+Is AI changing how you code? Yes/no—why?
+React hooks: game changer or too tricky?
+Share a photo of your workspace!
+What was your first programming language?
+How do you stay productive while working remote?
+One coding meme to describe your week?
+Never trust a developer who doesn't use version control.
+CSS is easy, they said. It'll be fun, they said.
+When your code works on the first try 👀
+Comment your code like your future self is a serial killer.
+There are only 10 types of people: those who understand binary and those who don't.
+Stack Overflow: saving developers since 2008.
+Real programmers count from 0.
+Why do programmers prefer dark mode? Because light attracts bugs!
+It's not a bug, it's a feature.
+Coding is 10% writing code, 90% figuring out why it doesn't work.
+When you finally fix that bug that's been haunting you for days 🎉
+Your code should tell a story, not require a detective novel.
+The best error message is the one that never appears.
+Clean code is not written by following a set of rules.
+Premature optimization is the root of all evil.
+Any fool can write code that a computer can understand.
+First, solve the problem. Then, write the code.
+Code is read much more often than it is written.
+Simplicity is the ultimate sophistication.
+Talk is cheap. Show me the code.
+Programs must be written for people to read.
+The best programs are written when the programmer is supposed to be working on something else.
+Keep your components small and focused.
+console.log("Still debugging...");
+Tailwind is the new black.
+Let your CSS breathe — use padding!
+Dark mode or light mode? Cast your vote!
+Responsive design isn't optional; it's essential.
+Reading code > writing code. Agree?
+Who else automates their deployments? 🙋‍♂️
+What's your favorite JavaScript framework right now? Reply below!
+TypeScript: Love it or hate it? Let's debate.
+Pro Django trick: _____
+Hot take on Go: agree or disagree?
+Rate your Fastify skills 1-10.
+Ask me anything about Nest.js!
+Show us a Python meme! 😂
+Biggest Symfony pain point? Vent below.
+Poll time! Is Ruby overrated? 🗳️
+One-word review of Java: _____
+Rate your Spring skills 1-10.
+Hot take on Kotlin: agree or disagree?
+Show us a Rust meme! 😂
+Ask me anything about C#!
+Poll time! Is .NET overrated? 🗳️
+Biggest TypeScript pain point? Vent below.
+Rate your JavaScript skills 1-10.
+Hot take on HTML5: agree or disagree?
+Show us a CSS3 meme! 😂
+Ask me anything about Less!
+Poll time! Is Bootstrap overrated? 🗳️
+One-word review of Material UI: _____
+Rate your Chakra UI skills 1-10.
+Hot take on Styled Components: agree or disagree?
+Show us a Emotion meme! 😂
+Ask me anything about CSS Grid!
+Biggest Flexbox pain point? Vent below.
+Rate your GraphQL skills 1-10.
+Hot take on REST API: agree or disagree?
+Show us a MongoDB meme! 😂
+Ask me anything about PostgreSQL!
+Poll time! Is MySQL overrated? 🗳️
+One-word review of Redis: _____
+Rate your ElasticSearch skills 1-10.
+Hot take on Docker: agree or disagree?
+Show us a Kubernetes meme! 😂
+Ask me anything about AWS!
+Biggest Azure pain point? Vent below.
+Rate your GCP skills 1-10.
+Hot take on Vercel: agree or disagree?
+Show us a Netlify meme! 😂
+Ask me anything about GitHub!
+Poll time! Is GitLab overrated? 🗳️
+One-word review of Bitbucket: _____
+Rate your Git skills 1-10.
+Hot take on VS Code: agree or disagree?
+Show us a WebStorm meme! 😂
+Ask me anything about Vim!
+Biggest Emacs pain point? Vent below.
+Rate your Sublime skills 1-10.
+Hot take on Atom: agree or disagree?
+Show us a Webpack meme! 😂
+Ask me anything about Vite!
+Poll time! Is Rollup overrated? 🗳️
+One-word review of Parcel: _____
+Rate your ESLint skills 1-10.
+Hot take on Prettier: agree or disagree?
+Show us a Jest meme! 😂
+Ask me anything about Cypress!
+Biggest Testing pain point? Vent below.
+Rate your DevOps skills 1-10.
+Hot take on CI/CD: agree or disagree?
+Show us a Jenkins meme! 😂
+Ask me anything about GitHub Actions!
+Poll time! Is Machine Learning overrated? 🗳️
+One-word review of TensorFlow: _____
+Rate your PyTorch skills 1-10.
+Hot take on Jupyter: agree or disagree?
+Show us a Pandas meme! 😂
+Ask me anything about NumPy!
+Biggest Scikit-learn pain point? Vent below.
+Rate your OpenAI skills 1-10.
+Hot take on Blockchain: agree or disagree?
+Show us a Web3 meme! 😂
+Ask me anything about Solidity!
+Poll time! Is Ethereum overrated? 🗳️
+One-word review of Bitcoin: _____
+Rate your DeFi skills 1-10.
+Hot take on NFTs: agree or disagree?
+Show us a PWA meme! 😂
+Ask me anything about WebAssembly!
+Biggest Deno pain point? Vent below.
+Rate your Bun skills 1-10.
+Challenge: explain React using only emojis! 🌟
+Flash poll: Tabs vs Spaces in Vue?
+Drop your favorite Angular resource below 👇
+30-second Svelte elevator pitch—GO!
+If Next.js were an animal, which one would it be?
+Share a mind-blowing Nuxt fact.
+What's your biggest Node.js tip you wish you knew sooner?
+Wish list for the next Express release?
+Express: what did you learn this week?
+CI/CD devs, unite! Post your project links here 🚀
+Challenge: explain Fastify using only emojis! 🌟
+Flash poll: Tabs vs Spaces in Nest.js?
+Drop your favorite Python resource below 👇
+30-second Django elevator pitch—GO!
+If Flask were an animal, which one would it be?
+Share a mind-blowing FastAPI fact.
+What's your biggest PHP tip you wish you knew sooner?
+Wish list for the next Laravel release?
+Laravel: what did you learn this week?
+Challenge: explain Symfony using only emojis! 🌟
+Flash poll: Tabs vs Spaces in Ruby?
+Drop your favorite Rails resource below 👇
+30-second Java elevator pitch—GO!
+If Spring were an animal, which one would it be?
+Share a mind-blowing Kotlin fact.
+What's your biggest Go tip you wish you knew sooner?
+Wish list for the next Rust release?
+Rust: what did you learn this week?
+Challenge: explain C# using only emojis! 🌟
+Flash poll: Tabs vs Spaces in .NET?
+Drop your favorite TypeScript resource below 👇
+30-second JavaScript elevator pitch—GO!
+If HTML5 were an animal, which one would it be?
+Share a mind-blowing CSS3 fact.
+What's your biggest Sass tip you wish you knew sooner?
+Wish list for the next Less release?
+Less: what did you learn this week?
+Challenge: explain Tailwind CSS using only emojis! 🌟
+Flash poll: Tabs vs Spaces in Bootstrap?
+Drop your favorite Material UI resource below 👇
+30-second Chakra UI elevator pitch—GO!
+If Styled Components were an animal, which one would it be?
+Share a mind-blowing Emotion fact.
+What's your biggest CSS Grid tip you wish you knew sooner?
+Wish list for the next Flexbox release?
+Flexbox: what did you learn this week?
+Challenge: explain GraphQL using only emojis! 🌟
+Flash poll: Tabs vs Spaces in REST API?
+Drop your favorite MongoDB resource below 👇
+30-second PostgreSQL elevator pitch—GO!
+If MySQL were an animal, which one would it be?
+Share a mind-blowing Redis fact.
+What's your biggest ElasticSearch tip you wish you knew sooner?
+Wish list for the next Docker release?
+Docker: what did you learn this week?
+Challenge: explain Kubernetes using only emojis! 🌟
+Flash poll: Tabs vs Spaces in AWS?
+Drop your favorite Azure resource below 👇
+30-second GCP elevator pitch—GO!
+If Vercel were an animal, which one would it be?
+Share a mind-blowing Netlify fact.
+What's your biggest GitHub tip you wish you knew sooner?
+Wish list for the next GitLab release?
+GitLab: what did you learn this week?
+Challenge: explain Bitbucket using only emojis! 🌟
+Flash poll: Tabs vs Spaces in Git?
+Drop your favorite VS Code resource below 👇
+30-second WebStorm elevator pitch—GO!
+If Vim were an animal, which one would it be?
+Share a mind-blowing Emacs fact.
+What's your biggest Sublime tip you wish you knew sooner?
+Wish list for the next Atom release?
+Atom: what did you learn this week?
+Challenge: explain Webpack using only emojis! 🌟
+Flash poll: Tabs vs Spaces in Vite?
+Drop your favorite Rollup resource below 👇
+30-second Parcel elevator pitch—GO!
+If ESLint were an animal, which one would it be?
+Share a mind-blowing Prettier fact.
+What's your biggest Jest tip you wish you knew sooner?
+Wish list for the next Cypress release?
+Cypress: what did you learn this week?
+Challenge: explain Testing using only emojis! 🌟
+Flash poll: Tabs vs Spaces in DevOps?
+Drop your favorite CI/CD resource below 👇
+30-second Jenkins elevator pitch—GO!
+If GitHub Actions were an animal, which one would it be?
+Share a mind-blowing Machine Learning fact.
+What's your biggest TensorFlow tip you wish you knew sooner?
+Wish list for the next PyTorch release?
+PyTorch: what did you learn this week?
+Challenge: explain Jupyter using only emojis! 🌟
+Flash poll: Tabs vs Spaces in Pandas?
+Drop your favorite NumPy resource below 👇
+30-second Scikit-learn elevator pitch—GO!
+If OpenAI were an animal, which one would it be?
+Share a mind-blowing Blockchain fact.
+What's your biggest Web3 tip you wish you knew sooner?
+Wish list for the next Solidity release?
+Solidity: what did you learn this week?
+Challenge: explain Ethereum using only emojis! 🌟
+Flash poll: Tabs vs Spaces in Bitcoin?
+Drop your favorite DeFi resource below 👇
+30-second NFTs elevator pitch—GO!
+If PWA were an animal, which one would it be?
+Share a mind-blowing WebAssembly fact.
+What's your biggest Deno tip you wish you knew sooner?
+Wish list for the next Bun release?
+Bun: what did you learn this week?
+Pro React trick: _____
+Pro Vue trick: _____
+Pro Angular trick: _____
+Pro Svelte trick: _____
+Pro Next.js trick: _____
+Pro Nuxt trick: _____
+Pro Node.js trick: _____
+Pro Express trick: _____
+Pro Fastify trick: _____
+Pro Nest.js trick: _____
+Pro Python trick: _____
+Pro Flask trick: _____
+Pro FastAPI trick: _____
+Pro PHP trick: _____
+Pro Laravel trick: _____
+Pro Symfony trick: _____
+Pro Ruby trick: _____
+Pro Rails trick: _____
+Pro Java trick: _____
+Pro Spring trick: _____
+Pro Kotlin trick: _____
+Pro Go trick: _____
+Pro Rust trick: _____
+Pro C# trick: _____
+Pro .NET trick: _____
+Pro TypeScript trick: _____
+Pro JavaScript trick: _____
+Pro HTML5 trick: _____
+Pro CSS3 trick: _____
+Pro Sass trick: _____
+Pro Less trick: _____
+Pro Tailwind CSS trick: _____
+Pro Bootstrap trick: _____
+Pro Material UI trick: _____
+Pro Chakra UI trick: _____
+Pro Styled Components trick: _____
+Pro Emotion trick: _____
+Pro CSS Grid trick: _____
+Pro Flexbox trick: _____
+Pro GraphQL trick: _____
+Pro REST API trick: _____
+Pro MongoDB trick: _____
+Pro PostgreSQL trick: _____
+Pro MySQL trick: _____
+Pro Redis trick: _____
+Pro ElasticSearch trick: _____
+Pro Docker trick: _____
+Pro Kubernetes trick: _____
+Pro AWS trick: _____
+Pro Azure trick: _____
+Pro GCP trick: _____
+Pro Vercel trick: _____
+Pro Netlify trick: _____
+Pro GitHub trick: _____
+Pro GitLab trick: _____
+Pro Bitbucket trick: _____
+Pro Git trick: _____
+Pro VS Code trick: _____
+Pro WebStorm trick: _____
+Pro Vim trick: _____
+Pro Emacs trick: _____
+Pro Sublime trick: _____
+Pro Atom trick: _____
+Pro Webpack trick: _____
+Pro Vite trick: _____
+Pro Rollup trick: _____
+Pro Parcel trick: _____
+Pro ESLint trick: _____
+Pro Prettier trick: _____
+Pro Jest trick: _____
+Pro Cypress trick: _____
+Pro Testing trick: _____
+Pro DevOps trick: _____
+Pro CI/CD trick: _____
+Pro Jenkins trick: _____
+Pro GitHub Actions trick: _____
+Pro Machine Learning trick: _____
+Pro TensorFlow trick: _____
+Pro PyTorch trick: _____
+Pro Jupyter trick: _____
+Pro Pandas trick: _____
+Pro NumPy trick: _____
+Pro Scikit-learn trick: _____
+Pro OpenAI trick: _____
+Pro Blockchain trick: _____
+Pro Web3 trick: _____
+Pro Solidity trick: _____
+Pro Ethereum trick: _____
+Pro Bitcoin trick: _____
+Pro DeFi trick: _____
+Pro NFTs trick: _____
+Pro PWA trick: _____
+Pro WebAssembly trick: _____
+Pro Deno trick: _____
+Pro Bun trick: _____
+What's the craziest bug you found while working with React?
+What's the craziest bug you found while working with Vue?
+What's the craziest bug you found while working with Angular?
+What's the craziest bug you found while working with Svelte?
+What's the craziest bug you found while working with Next.js?
+What's the craziest bug you found while working with Nuxt?
+What's the craziest bug you found while working with Node.js?
+What's the craziest bug you found while working with Express?
+What's the craziest bug you found while working with Fastify?
+What's the craziest bug you found while working with Nest.js?
+What's the craziest bug you found while working with Python?
+What's the craziest bug you found while working with Django?
+What's the craziest bug you found while working with Flask?
+What's the craziest bug you found while working with FastAPI?
+What's the craziest bug you found while working with PHP?
+What's the craziest bug you found while working with Laravel?
+What's the craziest bug you found while working with Symfony?
+What's the craziest bug you found while working with Ruby?
+What's the craziest bug you found while working with Rails?
+What's the craziest bug you found while working with Java?
+What's the craziest bug you found while working with Spring?
+What's the craziest bug you found while working with Kotlin?
+What's the craziest bug you found while working with Go?
+What's the craziest bug you found while working with Rust?
+What's the craziest bug you found while working with C#?
+What's the craziest bug you found while working with .NET?
+What's the craziest bug you found while working with TypeScript?
+What's the craziest bug you found while working with JavaScript?
+What's the craziest bug you found while working with HTML5?
+What's the craziest bug you found while working with CSS3?
+What's the craziest bug you found while working with Sass?
+What's the craziest bug you found while working with Less?
+What's the craziest bug you found while working with Tailwind CSS?
+What's the craziest bug you found while working with Bootstrap?
+What's the craziest bug you found while working with Material UI?
+What's the craziest bug you found while working with Chakra UI?
+What's the craziest bug you found while working with Styled Components?
+What's the craziest bug you found while working with Emotion?
+What's the craziest bug you found while working with CSS Grid?
+What's the craziest bug you found while working with Flexbox?
+What's the craziest bug you found while working with GraphQL?
+What's the craziest bug you found while working with REST API?
+What's the craziest bug you found while working with MongoDB?
+What's the craziest bug you found while working with PostgreSQL?
+What's the craziest bug you found while working with MySQL?
+What's the craziest bug you found while working with Redis?
+What's the craziest bug you found while working with ElasticSearch?
+What's the craziest bug you found while working with Docker?
+What's the craziest bug you found while working with Kubernetes?
+What's the craziest bug you found while working with AWS?
+What's the craziest bug you found while working with Azure?
+What's the craziest bug you found while working with GCP?
+What's the craziest bug you found while working with Vercel?
+What's the craziest bug you found while working with Netlify?
+What's the craziest bug you found while working with GitHub?
+What's the craziest bug you found while working with GitLab?
+What's the craziest bug you found while working with Bitbucket?
+What's the craziest bug you found while working with Git?
+What's the craziest bug you found while working with VS Code?
+What's the craziest bug you found while working with WebStorm?
+What's the craziest bug you found while working with Vim?
+What's the craziest bug you found while working with Emacs?
+What's the craziest bug you found while working with Sublime?
+What's the craziest bug you found while working with Atom?
+What's the craziest bug you found while working with Webpack?
+What's the craziest bug you found while working with Vite?
+What's the craziest bug you found while working with Rollup?
+What's the craziest bug you found while working with Parcel?
+What's the craziest bug you found while working with ESLint?
+What's the craziest bug you found while working with Prettier?
+What's the craziest bug you found while working with Jest?
+What's the craziest bug you found while working with Cypress?
+What's the craziest bug you found while working with Testing?
+What's the craziest bug you found while working with DevOps?
+What's the craziest bug you found while working with CI/CD?
+What's the craziest bug you found while working with Jenkins?
+What's the craziest bug you found while working with GitHub Actions?
+What's the craziest bug you found while working with Machine Learning?
+What's the craziest bug you found while working with TensorFlow?
+What's the craziest bug you found while working with PyTorch?
+What's the craziest bug you found while working with Jupyter?
+What's the craziest bug you found while working with Pandas?
+What's the craziest bug you found while working with NumPy?
+What's the craziest bug you found while working with Scikit-learn?
+What's the craziest bug you found while working with OpenAI?
+What's the craziest bug you found while working with Blockchain?
+What's the craziest bug you found while working with Web3?
+What's the craziest bug you found while working with Solidity?
+What's the craziest bug you found while working with Ethereum?
+What's the craziest bug you found while working with Bitcoin?
+What's the craziest bug you found while working with DeFi?
+What's the craziest bug you found while working with NFTs?
+What's the craziest bug you found while working with PWA?
+What's the craziest bug you found while working with WebAssembly?
+What's the craziest bug you found while working with Deno?
+What's the craziest bug you found while working with Bun?
+Ask me anything about Rust!
+Ask me anything about Go!
+Biggest Vite pain point? Vent below.
+Rate your Git skills 1-10.
+Show us a Machine Learning meme! 😂
+Hot take on Chakra UI: agree or disagree?
+Biggest Web3 pain point? Vent below.
+Ask me anything about Vite!
+Hot take on Rust: agree or disagree?
+Rate your Symfony skills 1-10.

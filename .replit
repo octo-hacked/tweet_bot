@@ -1,0 +1,30 @@
+entrypoint = "tweet_bot.py"
+modules = ["python-3.11"]
+
+[nix]
+channel = "stable-24_05"
+
+[unitTest]
+language = "python3"
+
+[gitHubImport]
+requiredFiles = [".replit", "replit.nix"]
+
+[deployment]
+run = ["python3", "tweet_bot.py"]
+deploymentTarget = "cloudrun"
+
+[workflows]
+
+[[workflows.workflow]]
+name = "tweet_bot"
+mode = "sequential"
+author = 23279239
+
+[[workflows.workflow.tasks]]
+task = "packager.installForLanguage"
+args = "python3"
+
+[[ports]]
+localPort = 8080
+externalPort = 80
