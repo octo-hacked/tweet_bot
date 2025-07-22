@@ -3,7 +3,6 @@ Ask me anything about JavaScript!
 Biggest Ruby pain point? Vent below.
 One-word review of Node.js: _____
 Rate your TensorFlow skills 1-10.
-Show us a PostgreSQL meme! 😂
 Ask me anything about PyTorch!
 Hot take on Redis: agree or disagree?
 Rate your CSS3 skills 1-10.
