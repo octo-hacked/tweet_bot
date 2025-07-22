@@ -2,8 +2,6 @@ Hot take on Python: agree or disagree?
 Ask me anything about JavaScript!
 Biggest Ruby pain point? Vent below.
 One-word review of Node.js: _____
-Tabs or spaces—what's your code style?
-Biggest GitLab pain point? Vent below.
 Rate your TensorFlow skills 1-10.
 Show us a PostgreSQL meme! 😂
 Ask me anything about PyTorch!
